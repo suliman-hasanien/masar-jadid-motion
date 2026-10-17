@@ -1,0 +1,112 @@
+{
+  "fps": 30,
+  "bpm": 100,
+  "framesPerBeat": 18,
+  "beatsPerBar": 4,
+  "scenes": [
+    {
+      "id": "intro",
+      "bars": 4,
+      "mood": "intro",
+      "transition": "none"
+    },
+    {
+      "id": "tagline",
+      "bars": 4,
+      "mood": "build",
+      "transition": "band"
+    },
+    {
+      "id": "premise",
+      "bars": 5,
+      "mood": "main",
+      "transition": "iris"
+    },
+    {
+      "id": "identity",
+      "bars": 4,
+      "mood": "main",
+      "transition": "band"
+    },
+    {
+      "id": "gaza",
+      "bars": 6,
+      "mood": "soft",
+      "transition": "split"
+    },
+    {
+      "id": "democracy",
+      "bars": 6,
+      "mood": "main",
+      "transition": "band"
+    },
+    {
+      "id": "justice",
+      "bars": 4,
+      "mood": "main",
+      "transition": "iris"
+    },
+    {
+      "id": "pillars",
+      "bars": 7,
+      "mood": "lift",
+      "transition": "band"
+    },
+    {
+      "id": "jerusalem",
+      "bars": 4,
+      "mood": "soft",
+      "transition": "split"
+    },
+    {
+      "id": "twostate",
+      "bars": 6,
+      "mood": "main",
+      "transition": "band"
+    },
+    {
+      "id": "region",
+      "bars": 4,
+      "mood": "main",
+      "transition": "iris"
+    },
+    {
+      "id": "digital",
+      "bars": 5,
+      "mood": "lift",
+      "transition": "band"
+    },
+    {
+      "id": "outro",
+      "bars": 5,
+      "mood": "outro",
+      "transition": "iris"
+    }
+  ],
+  "short": [
+    {
+      "id": "intro",
+      "bars": 3,
+      "mood": "intro",
+      "transition": "none"
+    },
+    {
+      "id": "tagline",
+      "bars": 4,
+      "mood": "build",
+      "transition": "band"
+    },
+    {
+      "id": "pillars",
+      "bars": 6,
+      "mood": "lift",
+      "transition": "iris"
+    },
+    {
+      "id": "outro",
+      "bars": 4,
+      "mood": "outro",
+      "transition": "band"
+    }
+  ]
+}
